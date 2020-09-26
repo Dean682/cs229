@@ -14,20 +14,20 @@ Please note:
 
 **Problem Set 0**
 - [Problem Set #0](Problem%20Sets/ps0/ps0.pdf)
-- **[Answers to Problem Set #0](Problem%20Sets/ps0/ps0.html)**
+- **[Answers to Problem Set #0](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps0/ps0.ipynb)**
 
 **Problem Set 1**
 - [Problem Set #1](Problem%20Sets/ps1/ps1.pdf)
-- **[Answers to Problem Set #1](Problem%20Sets/ps1/ps1.html)**
+- **[Answers to Problem Set #1](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps1/ps1.ipynb)**
 
 **Problem Set 2**
 - [Problem Set #2](Problem%20Sets/ps2/ps2.pdf)
-- **[Answers to Problem Set #2](Problem%20Sets/ps2/ps2.html)**
+- **[Answers to Problem Set #2](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps2/ps2.ipynb)**
 
 **Problem Set 3**
 - [Problem Set #3](Problem%20Sets/ps3/ps3.pdf)
-- **[Answers to Problem Set #3](Problem%20Sets/ps3/ps3.html)**
+- **[Answers to Problem Set #3](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps3/ps3.ipynb)**
 
 **Problem Set 4**
 - [Problem Set #4](Problem%20Sets/ps4/ps4.pdf)
-- **[Answers to Problem Set #4](Problem%20Sets/ps4/ps4.html)**
+- **[Answers to Problem Set #4](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps4/ps4.ipynb)**
