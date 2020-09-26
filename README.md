@@ -14,20 +14,20 @@ Please note:
 
 **Problem Set 0**
 - [Problem Set #0](Problem%20Sets/ps0/ps0.pdf)
-- **[Answers to Problem Set #0](Problem%20Sets/ps0/ps0.ipynb)**
+- **[Answers to Problem Set #0](Problem%20Sets/ps0/ps0.html)**
 
 **Problem Set 1**
 - [Problem Set #1](Problem%20Sets/ps1/ps1.pdf)
-- **[Answers to Problem Set #1](Problem%20Sets/ps1/ps1_main.ipynb)**
+- **[Answers to Problem Set #1](Problem%20Sets/ps1/ps1.html)**
 
 **Problem Set 2**
 - [Problem Set #2](Problem%20Sets/ps2/ps2.pdf)
-- **[Answers to Problem Set #2](Problem%20Sets/ps2/ps2.ipynb)**
+- **[Answers to Problem Set #2](Problem%20Sets/ps2/ps2.html)**
 
 **Problem Set 3**
 - [Problem Set #3](Problem%20Sets/ps3/ps3.pdf)
-- **[Answers to Problem Set #3](Problem%20Sets/ps3/ps3_main.ipynb)**
+- **[Answers to Problem Set #3](Problem%20Sets/ps3/ps3.html)**
 
 **Problem Set 4**
 - [Problem Set #4](Problem%20Sets/ps4/ps4.pdf)
-- **[Answers to Problem Set #4](Problem%20Sets/ps4/ps4.ipynb)**
+- **[Answers to Problem Set #4](Problem%20Sets/ps4/ps4.html)**
