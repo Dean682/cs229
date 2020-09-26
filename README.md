@@ -12,17 +12,19 @@ Please note:
   - [And another's](https://github.com/zyxue/stanford-cs229)
   - [And yet another's (author has since made their repo private)](https://github.com/s-ai-kia/CS229_ML)
 
-[Problem Set #0](Notebooks/Problem%20Sets/ps0/ps0.pdf)
-[Answers to Problem Set #0](Notebooks/Problem%20Sets/ps0/ps0.ipynb)
+[Problem Set #0](Problem%20Sets/ps0/ps0.pdf)
 
-[Problem Set #1](Notebooks/Problem%20Sets/ps1/ps1.pdf)
-[Answers to Problem Set #1](Notebooks/Problem%20Sets/ps1/ps1_main.ipynb)
+[Answers to Problem Set #0](Problem%20Sets/ps0/ps0.ipynb)
+
+[Problem Set #1](Problem%20Sets/ps1/ps1.pdf)
+
+[Answers to Problem Set #1](Problem%20Sets/ps1/ps1_main.ipynb)
 
 [Problem Set #2](Notebooks/Problem%20Sets/ps2/ps2.pdf)
-[Answers to Problem Set #2](Notebooks/Problem%20Sets/ps2/ps2.ipynb)
+[Answers to Problem Set #2](Problem%20Sets/ps2/ps2.ipynb)
 
 [Problem Set #3](Notebooks/Problem%20Sets/ps3/ps3.pdf)
-[Answers to Problem Set #3](Notebooks/Problem%20Sets/ps3/ps3_main.ipynb)
+[Answers to Problem Set #3](Problem%20Sets/ps3/ps3_main.ipynb)
 
 [Problem Set #4](Notebooks/Problem%20Sets/ps4/ps4.pdf)
-[Answers to Problem Set #4](Notebooks/Problem%20Sets/ps4/ps4.ipynb)
+[Answers to Problem Set #4](Problem%20Sets/ps4/ps4.ipynb)
