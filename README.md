@@ -16,15 +16,22 @@ Please note:
 
 [Answers to Problem Set #0](Problem%20Sets/ps0/ps0.ipynb)
 
+
 [Problem Set #1](Problem%20Sets/ps1/ps1.pdf)
 
 [Answers to Problem Set #1](Problem%20Sets/ps1/ps1_main.ipynb)
 
+
 [Problem Set #2](Notebooks/Problem%20Sets/ps2/ps2.pdf)
+
 [Answers to Problem Set #2](Problem%20Sets/ps2/ps2.ipynb)
 
+
 [Problem Set #3](Notebooks/Problem%20Sets/ps3/ps3.pdf)
+
 [Answers to Problem Set #3](Problem%20Sets/ps3/ps3_main.ipynb)
 
+
 [Problem Set #4](Notebooks/Problem%20Sets/ps4/ps4.pdf)
+
 [Answers to Problem Set #4](Problem%20Sets/ps4/ps4.ipynb)
