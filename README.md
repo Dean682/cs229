@@ -14,7 +14,7 @@ Please note:
 
 **Problem Set 0**
 - [Problem Set #0](Problem%20Sets/ps0/ps0.pdf)
-- **[Answers to Problem Set #0](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps0/ps0.ipynb)**
+- **[Answers to Problem Set #0](https://github.com/Wangitnator/cs229/blob/master/Problem%20Sets/ps0/ps0.ipynb)**
 
 **Problem Set 1**
 - [Problem Set #1](Problem%20Sets/ps1/ps1.pdf)
