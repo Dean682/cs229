@@ -25,7 +25,7 @@ Please note:
 - **[Answers to Problem Set #2](Problem%20Sets/ps2/ps2.ipynb)**
 
 **Problem Set 3**
-- [Problem Set #3](Notebooks/Problem%20Sets/ps3/ps3.pdf)
+- [Problem Set #3](Problem%20Sets/ps3/ps3.pdf)
 - **[Answers to Problem Set #3](Problem%20Sets/ps3/ps3_main.ipynb)**
 
 **Problem Set 4**
