@@ -12,22 +12,22 @@ Please note:
   - [And another's](https://github.com/zyxue/stanford-cs229)
   - [And yet another's (author has since made their repo private)](https://github.com/s-ai-kia/CS229_ML)
 
-**Problem Set 0**
+**Problem Set 0: Linear Algebra and Multivariable Calculus**
 - [Problem Set #0](Problem%20Sets/ps0/ps0.pdf)
 - **[Answers to Problem Set #0](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps0/ps0.ipynb?flush_cache=true)**
 
-**Problem Set 1**
+**Problem Set 1: Supervised Learning**
 - [Problem Set #1](Problem%20Sets/ps1/ps1.pdf)
 - **[Answers to Problem Set #1](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps1/ps1.ipynb)**
 
-**Problem Set 2**
+**Problem Set 2: Supervised Learning II**
 - [Problem Set #2](Problem%20Sets/ps2/ps2.pdf)
 - **[Answers to Problem Set #2](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps2/ps2.ipynb)**
 
-**Problem Set 3**
+**Problem Set 3: Deep Learning & Unsupervised Learning**
 - [Problem Set #3](Problem%20Sets/ps3/ps3.pdf)
 - **[Answers to Problem Set #3](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps3/ps3.ipynb)**
 
-**Problem Set 4**
+**Problem Set 4: Expectaion-Maximization, Deep Learning & Reinforcement Learning**
 - [Problem Set #4](Problem%20Sets/ps4/ps4.pdf)
 - **[Answers to Problem Set #4](https://nbviewer.jupyter.org/github/Wangitnator/cs229/blob/master/Problem%20Sets/ps4/ps4.ipynb)**
