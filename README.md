@@ -5,9 +5,10 @@ Here are my own solutions to all homeworks, for Prof. Andrew Ng's Masters-Level 
 
 Each problem set's solutions are presented as one or more jupyter notebooks. The top-level jupyter notebooks for each problem set  are listed below. They link to other notebooks, for more-involved problems (e.g. Reinforcement Learning in PS#4). Each top-level jupyter notebook includes screenshots of each problem's text and graphics, as a convenience to the reader.
 
-Please note: 
+NOTE: 
 - All errors are my own.
-- Because I completed the course materials independently (without access to Teaching Assistants or Recitations), I did consult other cs229 solutions, to better understand questions, esp. for Locally-Weighted Linear Regression, as well as Reinforcement Learning. Credits: 
+- Because I completed the course materials independently (without access to Teaching Assistants or Recitations), I did consult other CS229 solutions online, to better understand questions, esp. for Locally-Weighted Linear Regression, as well as Reinforcement Learning. 
+Credits: 
   - [One former student's repo](https://github.com/ccombier/stanford-CS229/)
   - [And another's](https://github.com/zyxue/stanford-cs229)
   - [And yet another's (author has since made their repo private)](https://github.com/s-ai-kia/CS229_ML)
